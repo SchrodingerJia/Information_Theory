@@ -98,10 +98,6 @@ scikit-learn>=0.24.0
 
 详细依赖见 `requirements.txt` 文件。
 
-## 贡献者
-
-- 【NAME】 (【ID】)
-
 ## 许可证
 
 本项目仅供学术研究使用。
